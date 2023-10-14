@@ -1,0 +1,141 @@
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.container-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  gap: 15px;
+  height: 50px;
+  font-size: 13px;
+}
+
+.container-nav .icon-google {
+  width: 25px;
+  padding: 3px;
+}
+
+.container-nav .img-perfil {
+  border-radius: 50%;
+  margin: 0 7px;
+}
+
+.principal-img {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.container-search .container-fluid .row {
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+  width: auto;
+  height: 44px;
+  margin: 0 auto;
+  max-width: 584px;
+  padding: 0 14px;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+.container-search .input-control {
+  border: none;
+  width: 100%;
+  outline: none;
+}
+.search-icon {
+  width: 18px;
+  opacity: 0.7;
+  margin-right: 15px;
+}
+.icons {
+  display: flex;
+  justify-content: right;
+  gap: 26px;
+}
+.icon {
+  width: 26px;
+}
+.container-search .column-3 {
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+}
+.container-search .btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container-search .btn a {
+  background-color: #f8f9fa;
+  border: 1px solid #f8f9fa;
+  border-radius: 4px;
+  color: #3c4043;
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  margin: 11px 4px;
+  padding: 5px 16px;
+  line-height: 27px;
+  min-width: 54px;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+  text-decoration: none;
+}
+.container-search .btn a:hover{
+  border-color: #dadce0;
+}
+.container-footer {
+  position: fixed;
+  bottom: 0;
+  padding: 0;
+  font-size: 14px;
+  color: #70757a;
+  background: #f2f2f2;
+}
+.container-footer .row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+.container-footer a {
+  padding: 15px;
+}
+.container-fluid .country {
+  padding: 15px 30px;
+  border-bottom: 1px solid #dadce0;
+}
+.container-footer .column-1,
+.container-footer .column-2 {
+  display: flex;
+  padding: 0px;
+}
+.container-footer .column-1 {
+  flex-wrap: wrap;
+}
+.container-footer .column-2 {
+  justify-content: flex-end;
+}
+
+@media (max-width: 858px) {
+  .container-footer .column-1,
+  .container-footer .column-2 {
+    display: flex;
+    justify-content: center;
+  }
+  .container-search .container-fluid .row>*{
+    flex-shrink: unset;
+    justify-content: right;
+    gap: 24px;
+  }
+  .container-fluid .country {
+    text-align: end;
+  }
+}

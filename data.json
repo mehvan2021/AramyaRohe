@@ -1,0 +1,222 @@
+[
+  {
+    "type": "major",
+    "name_short": "ar11",
+    "name": "Justice",
+    "value": "11",
+    "value_int": -11,
+    "img": "./images/tarot/justice.jpg",
+    "meaning_up": "Equity, rightness, probity, executive; triumph of the deserving side in law.",
+    "meaning_rev": "Law in all its departments, legal complications, bigotry, bias, excessive severity.",
+    "desc": "As this card follows the traditional symbolism and carries above all its obvious meanings, there is little to say regarding it outside the few considerations collected in the first part, to which the reader is referred.\nIt will be seen, however, that the figure is seated between pillars, like the High Priestess, and on this account it seems desirable to indicate that the moral principle which deals unto every man according to his works--while, of course, it is in strict analogy with higher things;--differs in its essence from the spiritual justice which is involved in the idea of election. The latter belongs to a mysterious order of Providence, in virtue of which it is possible for certain men to conceive the idea of dedication to the highest things. The operation of this is like the breathing of the Spirit where it wills, and we have no canon of criticism or ground of explanation concerning it. It is analogous to the possession of the fairy gifts and the high gifts and the gracious gifts of the poet: we have them or have not, and their presence is as much a mystery as their absence. The law of Justice is not however involved by either alternative. In conclusion, the pillars of Justice open into one world and the pillars of the High Priestess into another."
+  },
+  {
+    "type": "major",
+    "name_short": "ar09",
+    "name": "The Hermit",
+    "value": "9",
+    "value_int": 9,
+    "img": "./images/tarot/hands.jpg",
+    "meaning_up": "Prudence, circumspection; also and especially treason, dissimulation, roguery, corruption.",
+    "meaning_rev": "Concealment, disguise, policy, fear, unreasoned caution.",
+    "desc": "The variation from the conventional models in this card is only that the lamp is not enveloped partially in the mantle of its bearer, who blends the idea of the Ancient of Days with the Light of the World It is a star which shines in the lantern. I have said that this is a card of attainment, and to extend this conception the figure is seen holding up his beacon on an eminence. Therefore the Hermit is not, as Court de Gebelin explained, a wise man in search of truth and justice; nor is he, as a later explanation proposes, an especial example of experience. His beacon intimates that \"where I am, you also may be.\"\nIt is further a card which is understood quite incorrectly when it is connected with the idea of occult isolation, as the protection of personal magnetism against admixture. This is one of the frivolous renderings which we owe to Éliphas Lévi. It has been adopted by the French Order of Martinism and some of us have heard a great deal of the Silent and Unknown Philosophy enveloped by his mantle from the knowledge of the profane. In true Martinism, the significance of the term Philosophe inconnu was of another order. It did not refer to the intended concealment of the Instituted Mysteries, much less of their substitutes, but--like the card itself--to the truth that the Divine Mysteries secure their own protection from those who are unprepared."
+  },
+  {
+    "type": "major",
+    "name_short": "ar20",
+    "name": "The Last Judgment",
+    "value": "20",
+    "value_int": 20,
+    "img": "./images/tarot/sun.jpg",
+    "meaning_up": "Change of position, renewal, outcome. Another account specifies total loss though lawsuit.",
+    "meaning_rev": "Weakness, pusillanimity, simplicity; also deliberation, decision, sentence.",
+    "desc": "I have said that this symbol is essentially invariable in all Tarot sets, or at least the variations do not alter its character. The great angel is here encompassed by clouds, but he blows his bannered trumpet, and the cross as usual is displayed on the banner. The dead are rising from their tombs--a woman on the right, a man on the left hand, and between them their child, whose back is turned. But in this card there are more than three who are restored, and it has been thought worth while to make this variation as illustrating the insufficiency of current explanations. It should be noted that all the figures are as one in the wonder, adoration and ecstacy expressed by their attitudes. It is the card which registers the accomplishment of the great work of transformation in answer to the summons of the Supernal--which summons is heard and answered from within.\nHerein is the intimation of a significance which cannot well be carried further in the present place. What is that within us which does sound a trumpet and all that is lower in our nature rises in response--almost in a moment, almost in the twinkling of an eye? Let the card continue to depict, for those who can see no further, the Last judgment and the resurrection in the natural body; but let those who have inward eyes look and discover therewith. They will understand that it has been called truly in the past a card of eternal life, and for this reason it may be compared with that which passes under the name of Temperance."
+  },
+  {
+    "name": "Five of Cups",
+    "name_short": "cu05",
+    "value": "five",
+    "value_int": 5,
+    "img": "./images/tarot/butterfly.jpg",
+    "type": "minor",
+    "meaning_up": "ure, looking sideways at three prone cups two others stand upright behind him; a bridge is in the background, leading to a small keep or holding. Divanatory Meanings: It is a card of loss, but something remains over; three have been taken, but two are left; it is a card of inheritance, patrimony, transmission, but not corresponding to expectations; with some interpreters it is a card of marriage, but not without bitterness or frustration.",
+    "meaning_rev": "News, alliances, affinity, consanguinity, ancestry, return, false projects.",
+    "desc": "A dark, cloaked figure, looking sideways at three prone cups two others stand upright behind him; a bridge is in the background, leading to a small keep or holding. Divanatory Meanings: It is a card of loss, but something remains over; three have been taken, but two are left; it is a card of inheritance, patrimony, transmission, but not corresponding to expectations; with some interpreters it is a card of marriage, but not without bitterness or frustration. Reversed: News, alliances, affinity, consanguinity, ancestry, return, false projects"
+  },
+  {
+    "name": "Ten of Swords",
+    "name_short": "sw10",
+    "value": "ten",
+    "value_int": 10,
+    "img": "./images/tarot/sun2.jpg",
+    "type": "minor",
+    "meaning_up": "Whatsoever is intimated by the design; also pain, affliction, tears, sadness, desolation. It is not especially a card of violent death.",
+    "meaning_rev": "Advantage, profit, success, favour, but none of these are permanent; also power and authority.",
+    "desc": "A prostrate figure, pierced by all the swords belonging to the card."
+  },
+  {
+    "type": "major",
+    "name_short": "ar19",
+    "name": "The Sun",
+    "value": "19",
+    "value_int": -19,
+    "img": "./images/tarot/justice.jpg",
+    "meaning_up": "Material happiness, fortunate marriage, contentment.",
+    "meaning_rev": "The same in a lesser sense.",
+    "desc": "The naked child mounted on a white horse and displaying a red standard has been mentioned already as the better symbolism connected with this card. It is the destiny of the Supernatural East and the great and holy light which goes before the endless procession of humanity, coming out from the walled garden of the sensitive life and passing on the journey home. The card signifies, therefore, the transit from the manifest light of this world, represented by the glorious sun of earth, to the light of the world to come, which goes before aspiration and is typified by the heart of a child.\nBut the last allusion is again the key to a different form or aspect of the symbolism. The sun is that of consciousness in the spirit - the direct as the antithesis of the reflected light. The characteristic type of humanity has become a little child therein--a child in the sense of simplicity and innocence in the sense of wisdom. In that simplicity, he bears the seal of Nature and of Art; in that innocence, he signifies the restored world. When the self-knowing spirit has dawned in the consciousness above the natural mind, that mind in its renewal leads forth the animal nature in a state of perfect conformity."
+  },
+  {
+    "name": "King of Wands",
+    "name_short": "waki",
+    "value": "king",
+    "value_int": 14,
+    "img": "./images/tarot/hands.jpg",
+    "type": "minor",
+    "meaning_up": "Dark man, friendly, countryman, generally married, honest and conscientious. The card always signifies honesty, and may mean news concerning an unexpected heritage to fall in before very long.",
+    "meaning_rev": "Good, but severe; austere, yet tolerant.",
+    "desc": "The physical and emotional nature to which this card is attributed is dark, ardent, lithe, animated, impassioned, noble. The King uplifts a flowering wand, and wears, like his three correspondences in the remaining suits, what is called a cap of maintenance beneath his crown. He connects with the symbol of the lion, which is emblazoned on the back of his throne."
+  },
+  {
+    "name": "Four of Wands",
+    "name_short": "wa04",
+    "value": "four",
+    "value_int": 4,
+    "img": "./images/tarot/sun.jpg",
+    "type": "minor",
+    "meaning_up": "They are for once almost on the surface--country life, haven of refuge, a species of domestic harvest-home, repose, concord, harmony, prosperity, peace, and the perfected work of these.",
+    "meaning_rev": "The meaning remains unaltered; it is prosperity, increase, felicity, beauty, embellishment.",
+    "desc": "From the four great staves planted in the foreground there is a great garland suspended; two female figures uplift nosegays; at their side is a bridge over a moat, leading to an old manorial house."
+  },
+  {
+    "type": "major",
+    "name_short": "ar05",
+    "name": "The Hierophant",
+    "value": "5",
+    "value_int": 5,
+    "img": "./images/tarot/butterfly.jpg",
+    "meaning_up": "Marriage, alliance, captivity, servitude; by another account, mercy and goodness; inspiration; the man to whom the Querent has recourse.",
+    "meaning_rev": "Society, good understanding, concord, overkindness, weakness.",
+    "desc": "He wears the triple crown and is seated between two pillars, but they are not those of the Temple which is guarded by the High Priestess. In his left hand he holds a sceptre terminating in the triple cross, and with his right hand he gives the well-known ecclesiastical sign which is called that of esotericism, distinguishing between the manifest and concealed part of doctrine. It is noticeable in this connexion that the High Priestess makes no sign. At his feet are the crossed keys, and two priestly ministers in albs kneel before him. He has been usually called the Pope, which is a particular application of the more general office that he symbolizes. He is the ruling power of external religion, as the High Priestess is the prevailing genius of the esoteric, withdrawn power. The proper meanings of this card have suffered woeful admixture from nearly all hands. Grand Orient says truly that the Hierophant is the power of the keys, exoteric orthodox doctrine, and the outer side of the life which leads to the doctrine; but he is certainly not the prince of occult doctrine, as another commentator has suggested.\nHe is rather the summa totius theologiæ, when it has passed into the utmost rigidity of expression; but he symbolizes also all things that are righteous and sacred on the manifest side. As such, he is the channel of grace belonging to the world of institution as distinct from that of Nature, and he is the leader of salvation for the human race at large. He is the order and the head of the recognized hierarchy, which is the reflection of another and greater hierarchic order; but it may so happen that the pontiff forgets the significance of this his symbolic state and acts as if he contained within his proper measures all that his sign signifies or his symbol seeks to shew forth. He is not, as it has been thought, philosophy-except on the theological side; he is not inspiration; and he is not religion, although he is a mode of its expression."
+  },
+  {
+    "name": "Queen of Swords",
+    "name_short": "swqu",
+    "value": "queen",
+    "value_int": -13,
+    "img": "./images/tarot/sun2.jpg",
+    "type": "minor",
+    "meaning_up": "Widowhood, female sadness and embarrassment, absence, sterility, mourning, privation, separation.",
+    "meaning_rev": "Malice, bigotry, artifice, prudery, bale, deceit.",
+    "desc": "Her right hand raises the weapon vertically and the hilt rests on an arm of her royal chair the left hand is extended, the arm raised her countenance is severe but chastened; it suggests familiarity with sorrow. It does not represent mercy, and, her sword notwithstanding, she is scarcely a symbol of power."
+  },
+  {
+    "name": "Four of Cups",
+    "name_short": "cu04",
+    "value": "four",
+    "value_int": -4,
+    "img": "./images/tarot/justice.jpg",
+    "type": "minor",
+    "meaning_up": "Weariness, disgust, aversion, imaginary vexations, as if the wine of this world had caused satiety only; another wine, as if a fairy gift, is now offered the wastrel, but he sees no consolation therein. This is also a card of blended pleasure.",
+    "meaning_rev": "Novelty, presage, new instruction, new relations.",
+    "desc": "A young man is seated under a tree and contemplates three cups set on the grass before him; an arm issuing from a cloud offers him another cup. His expression notwithstanding is one of discontent with his environment."
+  },
+  {
+    "name": "Ace of Cups",
+    "name_short": "cuac",
+    "value": "ace",
+    "value_int": 1,
+    "img": "./images/tarot/hands.jpg",
+    "type": "minor",
+    "meaning_up": "House of the true heart, joy, content, abode, nourishment, abundance, fertility; Holy Table, felicity hereof.",
+    "meaning_rev": "House of the false heart, mutation, instability, revolution.",
+    "desc": "The waters are beneath, and thereon are water-lilies; the hand issues from the cloud, holding in its palm the cup, from which four streams are pouring; a dove, bearing in its bill a cross-marked Host, descends to place the Wafer in the Cup; the dew of water is falling on all sides. It is an intimation of that which may lie behind the Lesser Arcana."
+  },
+  {
+    "name": "Eight of Swords",
+    "name_short": "sw08",
+    "value": "eight",
+    "value_int": -8,
+    "img": "./images/tarot/sun.jpg",
+    "type": "minor",
+    "meaning_up": "Bad news, violent chagrin, crisis, censure, power in trammels, conflict, calumny; also sickness.",
+    "meaning_rev": "Disquiet, difficulty, opposition, accident, treachery; what is unforeseen; fatality.",
+    "desc": "A woman, bound and hoodwinked, with the swords of the card about her. Yet it is rather a card of temporary durance than of irretrievable bondage."
+  },
+  {
+    "name": "Knight of Cups",
+    "name_short": "cukn",
+    "value": "knight",
+    "value_int": 12,
+    "img": "./images/tarot/butterfly.jpg",
+    "type": "minor",
+    "meaning_up": "Arrival, approach--sometimes that of a messenger; advances, proposition, demeanour, invitation, incitement.",
+    "meaning_rev": "Trickery, artifice, subtlety, swindling, duplicity, fraud.",
+    "desc": "Graceful, but not warlike; riding quietly, wearing a winged helmet, referring to those higher graces of the imagination which sometimes characterize this card. He too is a dreamer, but the images of the side of sense haunt him in his vision."
+  },
+  {
+    "type": "major",
+    "name_short": "ar04",
+    "name": "The Emperor",
+    "value": "4",
+    "value_int": -4,
+    "img": "./images/tarot/sun2.jpg",
+    "meaning_up": "Stability, power, protection, realization; a great person; aid, reason, conviction; also authority and will.",
+    "meaning_rev": "Benevolence, compassion, credit; also confusion to enemies, obstruction, immaturity.",
+    "desc": "He has a form of the Crux ansata for his sceptre and a globe in his left hand. He is a crowned monarch--commanding, stately, seated on a throne, the arms of which axe fronted by rams' heads. He is executive and realization, the power of this world, here clothed with the highest of its natural attributes. He is occasionally represented as seated on a cubic stone, which, however, confuses some of the issues. He is the virile power, to which the Empress responds, and in this sense is he who seeks to remove the Veil of Isis; yet she remains virgo intacta.\nIt should be understood that this card and that of the Empress do not precisely represent the condition of married life, though this state is implied. On the surface, as I have indicated, they stand for mundane royalty, uplifted on the seats of the mighty; but above this there is the suggestion of another presence. They signify also--and the male figure especially--the higher kingship, occupying the intellectual throne. Hereof is the lordship of thought rather than of the animal world. Both personalities, after their own manner, are \"full of strange experience,\" but theirs is not consciously the wisdom which draws from a higher world. The Emperor has been described as (a) will in its embodied form, but this is only one of its applications, and (b) as an expression of virtualities contained in the Absolute Being--but this is fantasy."
+  },
+  {
+    "name": "Nine of Cups",
+    "name_short": "cu09",
+    "value": "nine",
+    "value_int": 9,
+    "img": "./images/tarot/justice.jpg",
+    "type": "minor",
+    "meaning_up": "Concord, contentment, physical bien-être; also victory, success, advantage; satisfaction for the Querent or person for whom the consultation is made.",
+    "meaning_rev": "Truth, loyalty, liberty; but the readings vary and include mistakes, imperfections, etc.",
+    "desc": "A goodly personage has feasted to his heart's content, and abundant refreshment of wine is on the arched counter behind him, seeming to indicate that the future is also assured. The picture offers the material side only, but there are other aspects."
+  },
+  {
+    "type": "major",
+    "name_short": "ar15",
+    "name": "The Devil",
+    "value": "15",
+    "value_int": 15,
+    "img": "./images/tarot/hands.jpg",
+    "meaning_up": "Ravage, violence, vehemence, extraordinary efforts, force, fatality; that which is predestined but is not for this reason evil.",
+    "meaning_rev": "Evil fatality, weakness, pettiness, blindness.",
+    "desc": "The design is an accommodation, mean or harmony, between several motives mentioned in the first part. The Horned Goat of Mendes, with wings like those of a bat, is standing on an altar. At the pit of the stomach there is the sign of Mercury. The right hand is upraised and extended, being the reverse of that benediction which is given by the Hierophant in the fifth card. In the left hand there is a great flaming torch, inverted towards the earth. A reversed pentagram is on the forehead. There is a ring in front of the altar, from which two chains are carried to the necks of two figures, male and female. These are analogous with those of the fifth card, as if Adam and Eve after the Fall. Hereof is the chain and fatality of the material life.\nThe figures are tailed, to signify the animal nature, but there is human intelligence in the faces, and he who is exalted above them is not to be their master for ever. Even now, he is also a bondsman, sustained by the evil that is in him and blind to the liberty of service. With more than his usual derision for the arts which he pretended to respect and interpret as a master therein, Éliphas Lévi affirms that the Baphometic figure is occult science and magic. Another commentator says that in the Divine world it signifies predestination, but there is no correspondence in that world with the things which below are of the brute. What it does signify is the Dweller on the Threshold without the Mystical Garden when those are driven forth therefrom who have eaten the forbidden fruit."
+  },
+  {
+    "name": "Seven of Wands",
+    "name_short": "wa07",
+    "value": "seven",
+    "value_int": 7,
+    "img": "./images/tarot/sun.jpg",
+    "type": "minor",
+    "meaning_up": "It is a card of valour, for, on the surface, six are attacking one, who has, however, the vantage position. On the intellectual plane, it signifies discussion, wordy strife; in business--negotiations, war of trade, barter, competition. It is further a card of success, for the combatant is on the top and his enemies may be unable to reach him.",
+    "meaning_rev": "Perplexity, embarrassments, anxiety. It is also a caution against indecision.",
+    "desc": "A young man on a craggy eminence brandishing a staff; six other staves are raised towards him from below."
+  },
+  {
+    "name": "King of Pentacles",
+    "name_short": "peki",
+    "value": "king",
+    "value_int": 14,
+    "img": "./images/tarot/butterfly.jpg",
+    "type": "minor",
+    "meaning_up": "Valour, realizing intelligence, business and normal intellectual aptitude, sometimes mathematical gifts and attainments of this kind; success in these paths.",
+    "meaning_rev": "Vice, weakness, ugliness, perversity, corruption, peril.",
+    "desc": "The figure calls for no special description the face is rather dark, suggesting also courage, but somewhat lethargic in tendency. The bull's head should be noted as a recurrent symbol on the throne. The sign of this suit is represented throughout as engraved or blazoned with the pentagram, typifying the correspondence of the four elements in human nature and that by which they may be governed. In many old Tarot packs this suit stood for current coin, money, deniers. I have not invented the substitution of pentacles and I have no special cause to sustain in respect of the alternative. But the consensus of divinatory meanings is on the side of some change, because the cards do not happen to deal especially with questions of money."
+  },
+  {
+    "type": "major",
+    "name_short": "ar06",
+    "name": "The Lovers",
+    "value": "6",
+    "value_int": -6,
+    "img": "./images/tarot/sun2.jpg",
+    "meaning_up": "Attraction, love, beauty, trials overcome.",
+    "meaning_rev": "Failure, foolish designs. Another account speaks of marriage frustrated and contrarieties of all kinds.",
+    "desc": "The sun shines in the zenith, and beneath is a great winged figure with arms extended, pouring down influences. In the foreground are two human figures, male and female, unveiled before each other, as if Adam and Eve when they first occupied the paradise of the earthly body. Behind the man is the Tree of Life, bearing twelve fruits, and the Tree of the Knowledge of Good and Evil is behind the woman; the serpent is twining round it. The figures suggest youth, virginity, innocence and love before it is contaminated by gross material desire. This is in all simplicity the card of human love, here exhibited as part of the way, the truth and the life. It replaces, by recourse to first principles, the old card of marriage, which I have described previously, and the later follies which depicted man between vice and virtue. In a very high sense, the card is a mystery of the Covenant and Sabbath.\nThe suggestion in respect of the woman is that she signifies that attraction towards the sensitive life which carries within it the idea of the Fall of Man, but she is rather the working of a Secret Law of Providence than a willing and conscious temptress. It is through her imputed lapse that man shall arise ultimately, and only by her can he complete himself. The card is therefore in its way another intimation concerning the great mystery of womanhood. The old meanings fall to pieces of necessity with the old pictures, but even as interpretations of the latter, some of them were of the order of commonplace and others were false in symbolism."
+  }
+]

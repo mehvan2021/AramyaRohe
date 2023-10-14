@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+  <link rel="stylesheet" href="./css/styles_tarot.css">
+  <title>Tarot JS</title>
+</head>
+
+<body>
+  <div class="container main-container">
+    <h1 class="title">TAROT JS</h1>
+    <section>
+      <div action="submit" class="form-init">
+        <label for="player-1">Jugador 1</label>
+        <input type="text" name="player-1" id="player-1" placeholder="Nombre">
+        <label for="player-2">Jugador 2</label>
+        <input type="text" name="player-2" id="player-2" placeholder="Nombre">
+        <button class="btn btn-success" id="lucky-btn">Voy a tener suerte!</button>
+      </div>
+      <div class="results d-none">
+        <h5>Juegos anteriores</h5>
+      </div>
+    </section>
+  </div>
+  <div class="container animation-container d-none">
+    <div class="loader">
+      <div class="face">
+        <div class="circle"></div>
+      </div>
+      <div class="face">
+        <div class="circle"></div>
+      </div>
+    </div>
+  </div>
+  <div class="container carousel-container d-none">
+    <div id="cardsCarousel" class="carousel slide carousel-fade ">
+      <button type="button" class="btn-close" id="btn-close" aria-label="Close"></button>
+      <div class="carousel-inner">
+      </div>
+      <div class="carousel-indicators">
+      </div>
+    </div>
+  </div>
+  <div class="modal" tabindex="-1" id="modal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-body">
+          <button type="button" class="btn btn-dark" id="show-results" data-bs-dismiss="modal">Ver Resultados</button>
+          <button type="button" class="btn btn-dark" id="get-lucky-again" data-bs-dismiss="modal">Volver a
+            Tirar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container results-container d-none">
+    <div class="player_result">
+      <div id="player_1_result">
+        <h3 id="player_1_title"></h3>
+        <div id="player_1_imgs" class="results-img"></div>
+      </div>
+      <div id="player_2_result">
+        <h3 id="player_2_title"></h3>
+        <div id="player_2_imgs" class="results-img"></div>
+      </div>
+      <div id="players_result" class="display-flex-row">
+        <h3 id="players_title"></h3>
+        <h5 id="players_response"></h5>
+      </div>
+    </div>
+    <div class="results-buttons">
+      <button class="btn btn-success" id="btn-save">Guardar</button>
+      <button class="btn btn-dark" id="btn-out">Salir</button>
+    </div>
+  </div>
+
+  <script src="./js/main.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>

@@ -1,0 +1,21 @@
+.contact,
+.copyright {
+  font-size: 10px;
+}
+
+.copyright {
+  margin-top: 25px;
+}
+
+.copyright p,
+.link-whatsapp p {
+  display: inline;
+}
+
+.link-whatsapp:hover {
+  text-decoration: underline;
+}
+
+.link-whatsapp p:nth-child(1) {
+  margin-right: 5px;
+}
